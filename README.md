@@ -1,4 +1,4 @@
-#HyperBlog 💚
+# HyperBlog 💚
 Un blog que hice aprendiendo Git en Platzi
 >Un curso de Git y GitHub de Platzi es lo que me hacia falta para empezar a trabajar controlando el versionado de mis aplicaciones.
 
