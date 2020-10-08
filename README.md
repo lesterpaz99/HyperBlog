@@ -8,6 +8,7 @@ En este curso de verdad vemos de todo:
 * El verdadero amor por las buenas practicas.
 * Creado por el Platzi Team y seguido por Obed Paz.
 * Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades
 
 **Este readme.md es un chiste**, solo es diseñado como ejemplo.
 
