@@ -7,6 +7,7 @@ En este curso de verdad vemos de todo:
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas.
 * Creado por el Platzi Team y seguido por Obed Paz.
+* Incluye ejemplos en Windows, Linux y Mac.
 
 **Este readme.md es un chiste**, solo es diseñado como ejemplo.
 
