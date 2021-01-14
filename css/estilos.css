@@ -4,7 +4,7 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
-    background: #1e1f24;
+    /*background: #1e1f24;*/
 }
 
 #container {
@@ -18,7 +18,7 @@ body {
 #container h1 {
     font-size: 25px;
     padding: 1em 0;
-    color: pink;
+    color: royalblue;
     text-align: center;
 }
 
