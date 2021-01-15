@@ -16,12 +16,12 @@ body {
 }
 
 .menu {
-    width: 50%;
+    width: 100%;
     height: fit-content;
 }
 .menu ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin-top: 1.6rem;
 }
 .menu ul li {
