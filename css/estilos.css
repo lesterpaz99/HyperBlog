@@ -60,6 +60,10 @@ body {
     font-size: 0.8em;
 }
 
+#wallpaper {
+    max-width: 100%;
+}
+
 #footer {
     background: #37488b;
     color: white;
